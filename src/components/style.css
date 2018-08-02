@@ -1,0 +1,23 @@
+.Jumboclass {
+    background: url('https://yatyat-portofolio.firebaseapp.com/images/background.jpg');
+    background-size: cover;
+}
+
+.card-text {
+    margin-bottom: .75rem;
+}
+
+.Small {
+    color: #6c757d;
+    font-size: 80%;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.Small-red {
+    color: red;
+    font-size: 80%;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
