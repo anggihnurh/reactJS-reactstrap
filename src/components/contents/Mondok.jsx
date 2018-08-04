@@ -27,7 +27,9 @@ export default class Mondok extends Component {
         <Button outline color="success" size="sm">
           Lihat Selengkapnya
         </Button>
+        <hr />
       </div>
+
     );
   }
 }

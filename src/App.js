@@ -8,6 +8,8 @@ import Kilat from './components/contents/Kilat';
 import Banner from './components/contents/Banner';
 import Mondok from './components/contents/Mondok';
 import Sponsor from './components/contents/Sponsor';
+import Contact from './components/Footer/Contact';
+import Footer from './components/Footer/Footer';
 class App extends Component {
   render() {
     return (
@@ -19,6 +21,8 @@ class App extends Component {
         <Banner />
         <Mondok />
         <Sponsor />
+        <Contact />
+        <Footer />
       </div>
     );
   }
